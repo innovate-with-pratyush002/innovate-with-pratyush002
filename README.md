@@ -9,37 +9,19 @@
 
 # 💫 About Me
 
-👋 Hi, I’m **Pratyush**
+I’m **Pratyush**, a **B.E. Computer Science Engineering student** with a strong foundation in **full-stack web development** and a growing focus on **backend systems and Data Engineering**.
 
-I’m a **B.E. Computer Science Engineering student** with a strong foundation in **full-stack web development** and a growing focus on **backend systems and Data Engineering**.
-
-I build **full-stack web applications** using the **MERN stack**, focusing on **scalable and user-focused solutions**. Alongside application development, I am actively transitioning toward **Data Engineering**, where I work with **data processing, backend systems, and data-driven architecture**.
+I build **scalable MERN stack applications** with emphasis on **clean backend logic, APIs, and data handling**, and I’m actively transitioning toward **data-driven backend and ETL-oriented workflows**.
 
 ---
 
 ## 🛠️ Technical Skills
-
-**Languages:**  
-Java, JavaScript, Python  
-
-**Web Development:**  
-MongoDB, Express.js, React, Node.js (MERN Stack)  
-
-**Backend & Systems:**  
-REST APIs, server-side development, data handling  
-
-**Data Engineering (Learning & Practicing):**
-- Data processing with Python  
-- Database fundamentals & data modeling  
-- ETL concepts and backend-oriented workflows  
-
----
-
-## 🚀 What I’m Focused On
-- Building robust backend systems  
-- Strengthening data engineering fundamentals  
-- Writing clean, maintainable, and scalable code  
-- Bridging application development with data-driven systems  
+```txt
+Languages  → Java, JavaScript, Python
+Frontend   → React, Tailwind CSS
+Backend    → Node.js, Express, REST APIs
+Databases  → MongoDB, MySQL
+Data       → Python data processing, ETL concepts
 
 > I enjoy learning how **large-scale systems work behind the scenes** and aim to grow into a **system-oriented Backend / Data Engineering role**.
 
