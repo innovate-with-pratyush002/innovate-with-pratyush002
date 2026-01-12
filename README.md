@@ -1,24 +1,31 @@
-<h1 align="center">Hi 👋, I'm Pratyush</h1>
-<h3 align="center">System-Oriented Backend Engineer | MERN Developer | Data Engineering Enthusiast</h3>
+## 💫 About Me
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=1000&center=true&vCenter=true&width=550&lines=Backend+Focused+Developer;MERN+Stack+Engineer;Learning+Data+Engineering;Building+Scalable+Systems" />
-</p>
+👋 Hi, I’m Pratyush  
 
----
+I’m a **B.E. Computer Science Engineering student** with a strong foundation in **full-stack web development** and a growing interest in **backend systems and Data Engineering**.
 
-## 🧠 About Me (In Short)
-- 🎓 **B.E. Computer Science Engineering**
-- 🔧 Strong in **MERN Stack** & backend development
-- 📊 Actively transitioning into **Data Engineering**
-- ⚙️ Interested in **how large-scale systems work internally**
-- 🎯 Goal: **System-oriented Backend / Data Engineer**
+I build **scalable and user-focused web applications** using the **MERN stack**, with emphasis on **clean backend logic, REST APIs, and efficient data handling**. Alongside application development, I am actively transitioning toward **Data Engineering**, where I focus on **data processing, database fundamentals, data modeling, and ETL-based workflows**.
 
 ---
 
-## 🧩 What I Actually Do
-```txt
-Frontend → React + Tailwind
-Backend  → Node.js, Express, REST APIs
-Data     → Python, Databases, ETL concepts
-Systems  → Scalable architecture, clean backend logic
+### 🛠️ Technical Skills
+**Languages:** Java, JavaScript, Python  
+
+**Web Development:** MongoDB, Express.js, React, Node.js (MERN Stack)  
+
+**Backend & Systems:** REST APIs, server-side development, data handling  
+
+**Data Engineering (Learning & Practicing):**
+- Data processing with Python  
+- Database fundamentals & data modeling  
+- ETL concepts and backend-oriented workflows  
+
+---
+
+### 🚀 What I’m Focused On
+- Building robust backend systems  
+- Strengthening data engineering fundamentals  
+- Writing clean, maintainable, and scalable code  
+- Bridging application development with data-driven systems  
+
+I enjoy learning how **large-scale systems work behind the scenes** and aim to grow into a **system-oriented Backend / Data Engineering role**.
