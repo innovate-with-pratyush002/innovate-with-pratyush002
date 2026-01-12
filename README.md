@@ -16,7 +16,7 @@ I build **scalable MERN stack applications** with emphasis on **clean backend lo
 ---
 
 ## 🛠️ Technical Skills
-```txt
+
 Languages  → Java, JavaScript, Python
 Frontend   → React, Tailwind CSS
 Backend    → Node.js, Express, REST APIs
