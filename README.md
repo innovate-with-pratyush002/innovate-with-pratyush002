@@ -16,16 +16,16 @@ I build **scalable MERN stack applications** with emphasis on **clean backend lo
 ---
 
 ## 🛠️ Technical Skills
+```txt
 
 Languages  → Java, JavaScript, Python
 Frontend   → React, Tailwind CSS
 Backend    → Node.js, Express, REST APIs
 Databases  → MongoDB, MySQL
 Data       → Python data processing, ETL concepts
+```
 
 > I enjoy learning how **large-scale systems work behind the scenes** and aim to grow into a **system-oriented Backend / Data Engineering role**.
-
----
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pratyush_1532)
