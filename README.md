@@ -18,11 +18,13 @@ I build **scalable MERN stack applications** with emphasis on **clean backend lo
 ## 🛠️ Technical Skills
 ```txt
 
-Languages  → Java, JavaScript, Python
-Frontend   → React, Tailwind CSS
-Backend    → Node.js, Express, REST APIs
-Databases  → MongoDB, MySQL
-Data       → Python data processing, ETL concepts
+Languages       → Java, JavaScript, TypeScript, Python
+Frontend        → React, Next.js, Tailwind CSS, HTML, CSS
+Backend         → Node.js, Express.js, FastAPI, REST APIs
+Databases       → PostgreSQL, MongoDB, MySQL
+ORM / ODM       → SQLAlchemy, Mongoose
+Data & AI       → Python Data Processing, ETL Concepts, RAG, Vector Databases
+Tools & DevOps  → Git, GitHub, Docker, Linux
 ```
 
 > I enjoy learning how **large-scale systems work behind the scenes** and aim to grow into a **system-oriented Backend / Data Engineering role**.
