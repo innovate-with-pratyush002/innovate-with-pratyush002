@@ -5,18 +5,16 @@ Backend Engineer • Full-Stack Developer • Systems & Data Engineering
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Building+Backend+Systems;Full-Stack+Web+Applications;Designing+APIs+%26+Data+Workflows;Exploring+Data+%26+AI+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Building+Backend+Systems;Full-Stack+Web+Applications;Designing+APIs+%26+Data+Workflows;Exploring+Data+%26+AI+Systems" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/innovate-with-pratyush002">
-    <img src="https://komarev.com/ghpvc/?username=innovate-with-pratyush002&label=Profile%20Views&color=0e75b6&style=flat" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=innovate-with-pratyush002&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 💫 About Me
 
 I'm **Pratyush**, a Computer Science Engineering student who enjoys building **backend-heavy, data-driven applications**.
 
@@ -39,7 +37,7 @@ Currently focused on:
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
 ### Languages
 
@@ -101,49 +99,6 @@ Currently focused on:
 
 ---
 
-## 🔥 Featured Projects
-
-### 🏠 RoomForU
-
-A full-stack room rental platform with authentication, listings, image uploads, search, reviews and location-based data.
-
-**Built with:** Node.js • Express.js • MongoDB • EJS • Passport.js • Cloudinary
-
----
-
-### 🤖 Mimexa AI
-
-An AI persona platform focused on creating personalized AI experiences using conversational data, RAG and vector-based retrieval.
-
-**Exploring:** Next.js • TypeScript • FastAPI • PostgreSQL • Qdrant • RAG
-
----
-
-### ⚡ Database Performance & Scalability Analyzer
-
-A backend-focused system for analyzing database queries, identifying performance issues and exploring query optimization and scalability patterns.
-
-**Built around:** Python • FastAPI • PostgreSQL • SQLAlchemy • Docker
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=innovate-with-pratyush002&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=innovate-with-pratyush002&layout=compact&hide_border=true&langs_count=8" height="170"/>
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=innovate-with-pratyush002&hide_border=true" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -167,11 +122,3 @@ A backend-focused system for analyzing database queries, identifying performance
   <i>Building systems, learning continuously, and turning ideas into working software.</i>
 </p>
 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=innovate-with-pratyush002&theme=dark&hide_border=false)
-![](https://nirzak-streak-stats.vercel.app/?user=innovate-with-pratyush002&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=innovate-with-pratyush002&theme=dark&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=innovate-with-pratyush002&icon=0&color=0)](https://visitcount.itsvg.in)
